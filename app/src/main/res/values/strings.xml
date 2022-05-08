@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RedditDownloader</string>
+    <string name="subreddits">Subreddits</string>
+    <string name="add_subreddit">Add Subreddit</string>
+</resources>
